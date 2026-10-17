@@ -12,8 +12,10 @@
     "@neondatabase/serverless": "^1.2.0",
     "@uiw/react-md-editor": "^4.1.2",
     "@vercel/blob": "^2.8.0",
+    "dotenv": "^18.0.8",
     "drizzle-orm": "^0.45.3",
     "next": "16.3.8",
+    "pg": "^8.23.1",
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "react-markdown": "^10.1.0",
@@ -23,6 +25,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pg": "^8.23.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "drizzle-kit": "^0.31.11",
